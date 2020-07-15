@@ -1,6 +1,6 @@
 # Heroku buildpack: swift
 
-This is a Heroku buildpack for Swift apps that are powered by the Swift Package Manager.
+This is a Heroku buildpack for Swift Heroku hosted apps that are powered by the Swift Package Manager.
 
 ## Usage
 
